@@ -225,8 +225,8 @@ const projects = [
       },
     ],
     image: movie,
-    repo: 'https://huaiensportfolio.netlify.app/',
-    demo: 'https://huaienportfolio.netlify.app/',
+    repo: 'https://github.com/shihhuaien/TimsPortfolio',
+    demo: 'https://huaiensportfolio.netlify.app/',
   },
   // {
   //   id: 'project-5',
