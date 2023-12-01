@@ -141,8 +141,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'Shalom PMS',
-    description: '專案管理：saas 模式飯店營運管理系統(PMS)',
+    name: 'React 小遊戲',
+    description: '用來練習各種props傳遞，附帶精美動畫',
     tags: [
       {
         name: 'react',
@@ -158,8 +158,8 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://www.shalom.com.tw/',
-    demo: 'https://www.shalom.com.tw/',
+    repo: 'https://github.com/shihhuaien/yahtzee-game',
+    demo: 'https://gameyahtzee.netlify.app/',
   },
   {
     id: 'project-2',
