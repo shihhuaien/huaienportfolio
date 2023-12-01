@@ -82,13 +82,13 @@ const Hero = () => {
         </div>
 
         <div>
-          <img
+          {/* <img
             className="absolute bottom-0 ml-[50vw] 
             lg:ml-[65vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[70vw]
             sm:h-[70vh] md:h-[70vh] xl:h-[90vh]"
             src={shaq}
             alt="shaquille"
-          />
+          /> */}
         </div>
       </section>
     </>

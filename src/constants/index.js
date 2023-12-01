@@ -130,8 +130,8 @@ const experiences = [
     date: '六月 2022 - 在職',
   },
   {
-    title: '初階前端工程師',
-    company_name: '求職中',
+    title: 'junior 全端工程師',
+    company_name: 'Xuemi.co.',
     icon: dcc,
     iconBg: '#333333',
     date: '四月 2023 - 現在',
