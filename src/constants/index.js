@@ -131,7 +131,7 @@ const experiences = [
   },
   {
     title: 'junior 全端工程師',
-    company_name: 'Xuemi.co.',
+    company_name: 'Xuemi co',
     icon: dcc,
     iconBg: '#333333',
     date: '四月 2023 - 現在',
